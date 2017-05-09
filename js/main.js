@@ -1,4 +1,4 @@
 function saludar(){
-	return "hola mundo";
+	return "Adios mundo";
 }
 document.write(saludar());
